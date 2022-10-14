@@ -1,0 +1,13 @@
+Front End Web Dev
+
+What is your website about? - Music
+What information are you presenting on the subject? - Types of music
+What does your website look like - Cartoony with white and blue colour scheme
+
+
+Title - Welcome to Music
+
+Paragraph 1 - Theres lots of different types of music including jazz, rock and metal
+
+Paragraph 2 - Jazz is often played on trumpets whereas rock and metal are more guitar based
+
